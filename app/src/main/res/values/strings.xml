@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reqres Data</string>
+    <string name="email">Email</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="textview">TextView</string>
+</resources>
